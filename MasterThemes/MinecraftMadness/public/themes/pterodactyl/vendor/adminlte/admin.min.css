@@ -80,7 +80,7 @@ body {
 	}
 }
 .content-wrapper {
-	background-image: url("/themes/pterodactyl/images/backg-tile.jpg");
+	background-image: url("/themes/pterodactyl/images/background.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	z-index: 800
